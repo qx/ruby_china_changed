@@ -130,8 +130,11 @@ Theme from [Mediom](https://github.com/huacnlee/mediom)
 * [Ruby China](https://ruby-china.org)
 * [36kr](http://36kr.com/)
 * [Testhome](http://testerhome.com/)
+
 ## Cus
+
 * start redis and elasticsearch(elasticsearch -d  && redis-server )
+
 ## License
 
 Copyright (c) 2011-2015 Ruby China
