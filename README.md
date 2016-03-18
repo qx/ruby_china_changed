@@ -1,7 +1,7 @@
 ## Ruby China
 
 This is the source code of [Ruby China](http://ruby-china.org) website.
-
+forked from [ruby-china/ruby-china](https://github.com/qx/ruby-china)
 [![Build Status](https://travis-ci.org/ruby-china/ruby-china.svg?branch=master)](https://travis-ci.org/ruby-china/ruby-china) [![Code Climate](https://codeclimate.com/github/ruby-china/ruby-china/badges/gpa.svg)](https://codeclimate.com/github/ruby-china/ruby-china)
 
 ## Requirements
@@ -130,7 +130,8 @@ Theme from [Mediom](https://github.com/huacnlee/mediom)
 * [Ruby China](https://ruby-china.org)
 * [36kr](http://36kr.com/)
 * [Testhome](http://testerhome.com/)
-
+## Cus
+* start redis and elasticsearch(elasticsearch -d  && redis-server )
 ## License
 
 Copyright (c) 2011-2015 Ruby China
